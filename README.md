@@ -1,3 +1,6 @@
+[![](https://data.jsdelivr.com/v1/package/gh/tp5er/logos/badge)](https://www.jsdelivr.com/package/gh/tp5er/logos)
+
+
 # 银行logos
 ~~~
 https://cdn.jsdelivr.net/gh/tp5er/logos/bank/三门峡银行.jpg
